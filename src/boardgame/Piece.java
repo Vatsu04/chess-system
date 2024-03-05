@@ -17,7 +17,7 @@ public class Piece {
 
     
     public Piece(Board board){
-        super();
+ 
         this.board = board;
         position = null;
         
