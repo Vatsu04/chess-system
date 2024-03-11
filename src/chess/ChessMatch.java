@@ -58,7 +58,10 @@ public class ChessMatch {
             if(!board.piece(source).possibleMove(target)){
                 throw new ChessException("The chosen can't move to target position");
             }
+            
         }
+        
+        
         
 	
 	private void placeNewPiece(char column, int row, ChessPiece piece) {
