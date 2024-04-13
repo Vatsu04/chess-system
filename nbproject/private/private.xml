@@ -5,13 +5,16 @@
         <group>
             <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/chess/system/UI.java</file>
             <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/boardgame/Position.java</file>
+            <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/chess/pieces/Bishop.java</file>
             <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/chess/ChessMatch.java</file>
             <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/chess/pieces/King.java</file>
+            <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/chess/pieces/Knight.java</file>
             <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/chess/ChessPiece.java</file>
             <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/boardgame/Board.java</file>
             <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/chess/pieces/Rook.java</file>
             <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/chess/ChessPosition.java</file>
             <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/boardgame/Piece.java</file>
+            <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/chess/pieces/Queen.java</file>
             <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/chess/system/ChessSystem.java</file>
             <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/chess/Color.java</file>
             <file>file:/C:/Users/tasca/Documents/NetBeansProjects/chess-system/chess-system/src/chess/pieces/Pawn.java</file>
